@@ -9,7 +9,7 @@ My approach blends creativity with technical precision — bringing ideas to lif
 
 ### ⚙️ Tech Stack  
 
-<div align="center">
+<div>
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -27,7 +27,7 @@ My approach blends creativity with technical precision — bringing ideas to lif
 ---
 
 ### 🌐 Connect With Me  
-<div align="center">
+<div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohary%20Andrianome-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zohary-andrianome)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-zoharyandrianome.dev-000000?style=for-the-badge&logo=vercel)](https://zoharyandrianome-portfolio.vercel.app/)
