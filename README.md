@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Zohary Andrianome  
+# 👋 Hey there, I’m Zohary  
 
 I'm a passionate **web and mobile developer** who loves crafting elegant, high-performing apps.  
 I focus on building scalable apps with clean architecture, modern technologies, and delightful user interfaces.  
